@@ -22,13 +22,13 @@
     background-color: white;
     border: 3px solid black;
     border-radius: 15px;
-    padding: 5px 80px;
+    padding: 5px 60px;
 }
 .link-in{
 	color: black;
     border: 3px solid black;
     border-radius: 15px;
-    padding: 5px 80px;
+    padding: 5px 60px;
     color:black;
     text-decoration:none;
     /*browser transition effect*/
